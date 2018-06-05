@@ -3,7 +3,7 @@
 
 05/05/18:
 
-Afternnon :
+Afternoon :
 
 Addition of a folder named v2 containing an updated version of the database work :
 - A .pdf with the updated uml is contained so it's not a guessing game.
